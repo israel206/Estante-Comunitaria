@@ -1,0 +1,6 @@
+0101;Diversidade da Paraíba;Lusival Barcellos
+2314;Direito do Trabalho;Maximiliano Roberto
+2233;Gestão Empresarial;Ermenegildo de Assis
+0690;Python;Nilo Ney Coutinho Menezes
+4221;Black Hat Python;Justin Seitz
+3567;Rede de Computadores;Andrews Tanenbaum
